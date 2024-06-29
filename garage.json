@@ -1,0 +1,26 @@
+[
+  {
+    "name": "nissan",
+    "carnumber": "024531656",
+    "problems": ["engine", "10k treatment", "brakes"],
+    "price": 2000
+  },
+  {
+    "name": "mustang",
+    "carnumber": "32186413543",
+    "problems": ["engine", "Filters + Oil ", "10k treatment"],
+    "price": 3250
+  },
+  {
+    "name": "dodge",
+    "carnumber": "186416846468",
+    "problems": ["engine", "Filters + Oil ", "10k treatment", "5k treatment"],
+    "price": 3750
+  },
+  {
+    "name": "Ferrari",
+    "carnumber": "46646844",
+    "problems": ["engine", "Filters + Oil ", "10k treatment", "5k treatment"],
+    "price": 3750
+  }
+]
